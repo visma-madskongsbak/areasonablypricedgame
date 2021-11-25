@@ -3,9 +3,10 @@
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
 1. The Forgotten City
-2. The Good Life
-2. Call of the Sea
-3. Breathedge
+2. The Medium
+3. The Good Life
+4. Call of the Sea
+5. Breathedge
 
 
 # Potentielle kandidater
