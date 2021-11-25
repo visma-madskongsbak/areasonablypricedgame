@@ -16,3 +16,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Exo One
 - Omno
 - Dicey Dungeons
+- Ghost of a Tail
