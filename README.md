@@ -18,3 +18,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Omno
 - Dicey Dungeons
 - Ghost of a Tail
+- Operation: Tango (Coop)
