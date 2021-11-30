@@ -19,3 +19,5 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Dicey Dungeons
 - Ghost of a Tail
 - Operation: Tango (Coop)
+- Metal Gear Solid: Twin Snakes / Metal Gear Solid
+- Squirrel Stalper (Dread X Collection 2)
