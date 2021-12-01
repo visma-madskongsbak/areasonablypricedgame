@@ -21,3 +21,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Operation: Tango (Coop)
 - Metal Gear Solid: Twin Snakes / Metal Gear Solid
 - Squirrel Stalper (Dread X Collection 2)
+- Hylics 1/2
