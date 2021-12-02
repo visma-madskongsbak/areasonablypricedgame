@@ -10,7 +10,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 
 
 # Potentielle kandidater
-- DEEEER Simulator: Your Average Everyday Deer Game
 - Before We Leave
 - SABLE
 - Mortal Shell
