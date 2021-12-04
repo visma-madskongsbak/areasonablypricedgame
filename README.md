@@ -1,7 +1,7 @@
 # a Reasonably Priced Game
 
 ## Nuværende spil
-**Metal Gear Solid: Twin Snakes**
+**Metal Gear Solid**
 
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
