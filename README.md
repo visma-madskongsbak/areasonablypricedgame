@@ -1,8 +1,9 @@
 # a Reasonably Priced Game
 
 ## Nuværende spil
-**Metal Gear Solid**
+**SABLE**
 
+# Rangliste
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
 1. The Forgotten City
@@ -15,12 +16,16 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 
 
 # Potentielle kandidater
+
+## Game Pass
 - Before We Leave
-- SABLE
 - Mortal Shell
 - Exo One
 - Omno
 - Ghost of a Tail
+
+## Not game Pass
+
 - Operation: Tango (Coop)
 - Squirrel Stalper (Dread X Collection 2)
 - Hylics 1/2
