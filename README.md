@@ -6,11 +6,12 @@
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
 1. The Forgotten City
-2. The Medium
-3. The Good Life
-4. Call of the Sea
-5. Dicey Dungeons
-6. Breathedge
+2. Metal Gear Solid
+3. The Medium
+4. The Good Life
+5. Call of the Sea
+6. Dicey Dungeons
+7. Breathedge
 
 
 # Potentielle kandidater
