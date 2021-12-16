@@ -30,6 +30,5 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 
 ## Not game Pass
 
-- Operation: Tango (Coop)
 - Squirrel Stalper (Dread X Collection 2)
 - Hylics 1/2
