@@ -1,23 +1,27 @@
 # a Reasonably Priced Game
 
 ## Nuværende spil
-**SABLE**
+
+**Operation: Tango**
 
 # Rangliste
+
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
 1. The Forgotten City
 2. Metal Gear Solid
 3. The Medium
 4. The Good Life
-5. Call of the Sea
-6. Dicey Dungeons
-7. Breathedge
+5. SABLE
+6. Call of the Sea
+7. Dicey Dungeons
+8. Breathedge
 
 
 # Potentielle kandidater
 
 ## Game Pass
+
 - Before We Leave
 - Mortal Shell
 - Exo One
