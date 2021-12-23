@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-**Operation: Tango**
+**Hylics 1/2**
 
 # Rangliste
 
@@ -13,9 +13,10 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 3. The Medium
 4. The Good Life
 5. SABLE
-6. Call of the Sea
-7. Dicey Dungeons
-8. Breathedge
+6. Operation: Tango
+7. Call of the Sea
+8. Dicey Dungeons
+9. Breathedge
 
 
 # Potentielle kandidater
@@ -32,3 +33,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 
 - Squirrel Stalper (Dread X Collection 2)
 - Hylics 1/2
+- Tick Tock: A Tale for Two
