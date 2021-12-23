@@ -32,5 +32,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 ## Not game Pass
 
 - Squirrel Stalper (Dread X Collection 2)
-- Hylics 1/2
 - Tick Tock: A Tale for Two
