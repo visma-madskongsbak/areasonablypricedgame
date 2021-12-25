@@ -34,3 +34,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Squirrel Stalper (Dread X Collection 2)
 - Tick Tock: A Tale for Two
 - Death's Door
+- Inscryption
+- Loop Hero
+- Deathloop
