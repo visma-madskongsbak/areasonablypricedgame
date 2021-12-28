@@ -1,53 +1,35 @@
-# SAFE Template
+# a Reasonably Priced Game
 
-This template can be used to generate a full-stack web application using the [SAFE Stack](https://safe-stack.github.io/). It was created using the dotnet [SAFE Template](https://safe-stack.github.io/docs/template-overview/). If you want to learn more about the template why not start with the [quick start](https://safe-stack.github.io/docs/quickstart/) guide?
+## Nuværende spil
 
-## Install pre-requisites
+**Hylics 1/2**
 
-You'll need to install the following pre-requisites in order to build SAFE applications
+# Rangliste
 
-* [.NET Core SDK](https://www.microsoft.com/net/download) 5.0 or higher
-* [Node LTS](https://nodejs.org/en/download/)
+Spillede Spilklubspil arrangeret efter hvor gode de er
 
-## Starting the application
+1. The Forgotten City
+2. Metal Gear Solid
+3. The Medium
+4. The Good Life
+5. SABLE
+6. Operation: Tango
+7. Call of the Sea
+8. Dicey Dungeons
+9. Breathedge
 
-Before you run the project **for the first time only** you must install dotnet "local tools" with this command:
 
-```bash
-dotnet tool restore
-```
+# Potentielle kandidater
 
-To concurrently run the server and the client components in watch mode use the following command:
+## Game Pass
 
-```bash
-dotnet run
-```
+- Before We Leave
+- Mortal Shell
+- Exo One
+- Omno
+- Ghost of a Tail
 
-Then open `http://localhost:8080` in your browser.
+## Not game Pass
 
-The build project in root directory contains a couple of different build targets. You can specify them after `--` (target name is case-insensitive).
-
-To run concurrently server and client tests in watch mode (you can run this command in parallel to the previous one in new terminal):
-
-```bash
-dotnet run -- RunTests
-```
-
-Client tests are available under `http://localhost:8081` in your browser and server tests are running in watch mode in console.
-
-Finally, there are `Bundle` and `Azure` targets that you can use to package your app and deploy to Azure, respectively:
-
-```bash
-dotnet run -- Bundle
-dotnet run -- Azure
-```
-
-## SAFE Stack Documentation
-
-If you want to know more about the full Azure Stack and all of it's components (including Azure) visit the official [SAFE documentation](https://safe-stack.github.io/docs/).
-
-You will find more documentation about the used F# components at the following places:
-
-* [Saturn](https://saturnframework.org/)
-* [Fable](https://fable.io/docs/)
-* [Elmish](https://elmish.github.io/elmish/)
+- Squirrel Stalper (Dread X Collection 2)
+- Tick Tock: A Tale for Two
