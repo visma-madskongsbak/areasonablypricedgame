@@ -1,7 +1,6 @@
 Fake.Core.Target
 Fake.IO.FileSystem
 Farmer
-Vp.FSharp.Sql.Sqlite
 Fable.Elmish.HMR
 Fable.Elmish.Debugger
 Fable.Elmish.React
