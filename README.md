@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-**Hylics 1/2**
+Inscryption
 
 # Rangliste
 
@@ -11,12 +11,13 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 1. The Forgotten City
 2. Metal Gear Solid
 3. The Medium
-4. The Good Life
-5. SABLE
-6. Operation: Tango
-7. Call of the Sea
-8. Dicey Dungeons
-9. Breathedge
+4. Hylics 1 & 2
+5. The Good Life
+6. SABLE
+7. Operation: Tango
+8. Call of the Sea
+9. Dicey Dungeons
+10. Breathedge
 
 
 # Potentielle kandidater
