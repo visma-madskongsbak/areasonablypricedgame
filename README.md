@@ -29,6 +29,8 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Exo One
 - Omno
 - Ghost of a Tail
+- Outer Wilds
+- The Pedestrian
 
 ## Not game Pass
 
