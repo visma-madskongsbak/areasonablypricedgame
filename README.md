@@ -2,22 +2,24 @@
 
 ## Nuværende spil
 
-Inscryption
+Outer Wilds
+
 
 # Rangliste
 
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
-1. The Forgotten City
-2. Metal Gear Solid
-3. The Medium
-4. Hylics 1 & 2
-5. The Good Life
-6. SABLE
-7. Operation: Tango
-8. Call of the Sea
-9. Dicey Dungeons
-10. Breathedge
+1. Inscryption
+2. The Forgotten City
+3. Metal Gear Solid
+4. The Medium
+5. Hylics 1 & 2
+6. The Good Life
+7. SABLE
+8. Operation: Tango
+9. Call of the Sea
+10. Dicey Dungeons
+11. Breathedge
 
 
 # Potentielle kandidater
@@ -29,7 +31,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Exo One
 - Omno
 - Ghost of a Tail
-- Outer Wilds
 - The Pedestrian
 
 ## Not game Pass
@@ -37,6 +38,5 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Squirrel Stalper (Dread X Collection 2)
 - Tick Tock: A Tale for Two
 - Death's Door
-- Inscryption
 - Loop Hero
 - Deathloop
