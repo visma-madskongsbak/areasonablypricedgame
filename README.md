@@ -40,3 +40,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Death's Door
 - Loop Hero
 - Deathloop
+- Furi
