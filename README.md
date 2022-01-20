@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-Outer Wilds
+Pupperazzi
 
 
 # Rangliste
@@ -10,16 +10,17 @@ Outer Wilds
 Spillede Spilklubspil arrangeret efter hvor gode de er
 
 1. Inscryption
-2. The Forgotten City
-3. Metal Gear Solid
-4. The Medium
-5. Hylics 1 & 2
-6. The Good Life
-7. SABLE
-8. Operation: Tango
-9. Call of the Sea
-10. Dicey Dungeons
-11. Breathedge
+2. Outer Wilds
+3. The Forgotten City
+4. Metal Gear Solid
+5. The Medium
+6. Hylics 1 & 2
+7. The Good Life
+8. SABLE
+9. Operation: Tango
+10. Call of the Sea
+11. Dicey Dungeons
+12. Breathedge
 
 
 # Potentielle kandidater
@@ -30,9 +31,7 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Mortal Shell
 - Exo One
 - Omno
-- Ghost of a Tail
 - The Pedestrian
-- Pupperazzi
 - Death's Door
 ## Not game Pass
 
