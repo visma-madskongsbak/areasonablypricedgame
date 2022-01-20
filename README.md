@@ -32,12 +32,12 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Omno
 - Ghost of a Tail
 - The Pedestrian
-
+- Pupperazzi
+- Death's Door
 ## Not game Pass
 
 - Squirrel Stalper (Dread X Collection 2)
 - Tick Tock: A Tale for Two
-- Death's Door
 - Loop Hero
 - Deathloop
 - Furi
