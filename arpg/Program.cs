@@ -1,20 +1,31 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using arpg.Areas.Identity.Data;
-var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("arpgIdentityDbContextConnection");
+using arpg.Data;
+using arpg.Models;
 
-builder.Services.AddDbContext<arpgIdentityDbContext>(options =>
+var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContext");
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<arpgIdentityDbContext>();
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddAuthentication().AddSteam();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("arpgContext")));
+
+builder.Services.AddSingleton<IGDB.IGDBClient>(
+    new IGDB.IGDBClient(
+        builder.Configuration.GetValue<string>("IGDBClientID"),
+        builder.Configuration.GetValue<string>("IGDBClientSecret")
+        )
+    );
 
 
 var app = builder.Build();
