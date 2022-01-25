@@ -11,19 +11,22 @@ using arpg.Data;
 using arpg.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using IGDB;
 
-namespace arpg
+namespace arpg.Pages
 {
     [Authorize]
     public class RankingsModel : PageModel
     {
         private readonly ApplicationDbContext _context;
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly IGDBClient _igdbClient;
 
-        public RankingsModel(ApplicationDbContext context, UserManager<ApplicationUser> userManager)
+        public RankingsModel(ApplicationDbContext context, UserManager<ApplicationUser> userManager, IGDBClient iGDBClient)
         {
             _context = context;
             _userManager = userManager;
+            _igdbClient = iGDBClient;
         }
 
         [BindProperty]
@@ -32,19 +35,29 @@ namespace arpg
         public async Task<IActionResult> OnGetAsync()
         {
             var user = await _userManager.GetUserAsync(User);
-            if (user == null)
+            var efuser = await _context.Users.Include(u => u.Rankings).SingleAsync(u => u.Id == user.Id);
+            if (efuser == null)
             {
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
             }
-            if (user.Rankings == null)
+            if (efuser.Rankings == null)
             {
-               
-                user.Rankings = new List<Game>();
-                user.Rankings = user.Rankings.Append(new Game(1, "testgame", "yo")).ToList();
+                var game = new Game(1, "testgame", "yo");
+                await _context.Games.AddAsync(game);
+
+                user.Rankings = new Game[] { game };
                 await _context.SaveChangesAsync();
             }
 
             return Page();
+        }
+
+
+        public async Task<JsonResult> OnGetSearchGameAsync(string query)
+        {
+            if (string.IsNullOrEmpty(query)) return new JsonResult("");
+            var games = await _igdbClient.QueryAsync<IGDB.Models.Game>(IGDBClient.Endpoints.Games, $"search \"{query.ToLower().Trim()}\"; fields id,name,cover; limit 10;");
+            return new JsonResult(games);
         }
 
         // To protect from overposting attacks, enable the specific properties you want to bind to.

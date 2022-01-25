@@ -11,7 +11,7 @@ namespace arpg.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        //public DbSet<Ranking> Ranking { get; set; }
+        public DbSet<Game> Games { get; set; }
 
         public ApplicationDbContext (DbContextOptions<ApplicationDbContext> options)
             : base(options)

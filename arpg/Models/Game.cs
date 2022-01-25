@@ -1,4 +1,6 @@
-﻿namespace arpg.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace arpg.Models
 {
     public class Game
     {
@@ -8,7 +10,7 @@
             Title = title;
             Genre = genre;
         }
-
+        [Required]
         public int Id { get; set; }
         public string Title { get; set; }
         public string Genre { get; set; }

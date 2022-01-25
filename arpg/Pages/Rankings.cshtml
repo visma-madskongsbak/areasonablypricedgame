@@ -1,5 +1,5 @@
 ﻿@page
-@model arpg.RankingsModel
+@model             RankingsModel
 
 @{
     ViewData["Title"] = "Rankings";
@@ -8,7 +8,10 @@
 <h1>Rankings</h1>
 
 <h4>Ranking</h4>
-<hr />
+<hr/>
+
+<input type="search" id="game-search" list="game-list"/>
+<datalist id="game-list"></datalist>
 <div class="row">
     <div class="col-md-4">
         <form method="post">
@@ -24,6 +27,29 @@
     <a asp-page="./Index">Back to List</a>
 </div>
 
+
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        const elem = document.getElementById("game-search");
+        const list = document.getElementById("game-list");
+        elem.addEventListener("keyup", (e) => {
+                        list.innerHTML = '' //clear list
+                        fetch(`?handler=SearchGame&query=${e.target.value}`).then(
+                (r) => r.json()
+            ).then(
+                (data) => data.forEach((e) => {
+                    const option = document.createElement("option");
+                    option.value = e.id;
+                    option.text = e.name;
+                    list.appendChild(option)
+                })
+        )
+        })
+
+        
+    </script>
+
+    
+
 }

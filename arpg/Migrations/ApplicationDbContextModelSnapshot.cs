@@ -102,7 +102,7 @@ namespace arpg.Migrations
 
                     b.HasIndex("ApplicationUserId");
 
-                    b.ToTable("Game");
+                    b.ToTable("Games");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
