@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-Pupperazzi
+Death's Door
 
 
 # Rangliste
@@ -18,9 +18,10 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 7. The Good Life
 8. SABLE
 9. Operation: Tango
-10. Call of the Sea
+10. Pupperazzi
 11. Dicey Dungeons
-12. Breathedge
+12. Call of the Sea
+∞. Breathedge
 
 
 # Potentielle kandidater
@@ -32,7 +33,8 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Exo One
 - Omno
 - The Pedestrian
-- Death's Door
+
+
 ## Not game Pass
 
 - Squirrel Stalper (Dread X Collection 2)
