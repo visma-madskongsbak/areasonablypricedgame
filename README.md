@@ -34,6 +34,9 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Exo One
 - Omno
 - The Pedestrian
+- Danganronpa: Trigger Happy Havoc
+- Nobody saves the world
+- Boyfriend Dungeon
 
 
 ## Not game Pass
