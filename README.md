@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-Death's Door
+The Pedestrian
 
 
 # Rangliste
@@ -12,15 +12,16 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 1. Inscryption
 2. Outer Wilds
 3. The Forgotten City
-4. Metal Gear Solid
-5. The Medium
-6. Hylics 1 & 2
-7. The Good Life
-8. SABLE
-9. Operation: Tango
-10. Pupperazzi
-11. Dicey Dungeons
-12. Call of the Sea
+4. Death's Door
+5. Metal Gear Solid
+6. The Medium
+7. Hylics 1 & 2
+8. The Good Life
+9. SABLE
+10. Operation: Tango
+11. Pupperazzi
+12. Dicey Dungeons
+13. Call of the Sea
 
 ∞. Breathedge
 
@@ -37,6 +38,9 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Danganronpa: Trigger Happy Havoc
 - Nobody saves the world
 - Boyfriend Dungeon
+- Matematik i Måneby
+- The Surge 2
+- Taiko no Tatsujin: The Drum Master!
 
 
 ## Not game Pass
