@@ -34,7 +34,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Mortal Shell
 - Exo One
 - Omno
-- The Pedestrian
 - Danganronpa: Trigger Happy Havoc
 - Nobody saves the world
 - Boyfriend Dungeon
