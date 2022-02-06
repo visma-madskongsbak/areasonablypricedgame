@@ -40,6 +40,7 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Matematik i Måneby
 - The Surge 2
 - Taiko no Tatsujin: The Drum Master!
+- Telling Lies
 
 
 ## Not game Pass
