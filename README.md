@@ -17,11 +17,12 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 6. The Medium
 7. Hylics 1 & 2
 8. The Good Life
-9. SABLE
-10. Operation: Tango
-11. Pupperazzi
-12. Dicey Dungeons
-13. Call of the Sea
+9. The Pedestrian
+10. SABLE
+11. Operation: Tango
+12. Pupperazzi
+13. Dicey Dungeons
+14. Call of the Sea
 
 ∞. Breathedge
 
@@ -34,7 +35,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Mortal Shell
 - Exo One
 - Omno
-- Danganronpa: Trigger Happy Havoc
 - Nobody saves the world
 - Boyfriend Dungeon
 - Matematik i Måneby
@@ -52,3 +52,4 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Furi
 - Unfinished Swan
 - What the Golf?!
+- Persona 5
