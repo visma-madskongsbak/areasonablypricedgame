@@ -50,3 +50,5 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Loop Hero
 - Deathloop
 - Furi
+- Unfinished Swan
+- What the Golf?!
