@@ -2,8 +2,7 @@
 
 ## Nuværende spil
 
-Telling Lies
-
+Matematik i Måneby
 
 # Rangliste
 
@@ -16,13 +15,14 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 5. Metal Gear Solid
 6. The Medium
 7. Hylics 1 & 2
-8. The Good Life
-9. The Pedestrian
-10. SABLE
-11. Operation: Tango
-12. Pupperazzi
-13. Dicey Dungeons
-14. Call of the Sea
+8. Telling Lies
+9. The Good Life
+10. The Pedestrian
+11. SABLE
+12. Operation: Tango
+13. Pupperazzi
+14. Dicey Dungeons
+15. Call of the Sea
 
 ∞. Breathedge
 
