@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-Matematik i Måneby
+Omno
 
 # Rangliste
 
@@ -22,7 +22,8 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 12. Operation: Tango
 13. Pupperazzi
 14. Dicey Dungeons
-15. Call of the Sea
+15. Matematik i Måneby
+16. Call of the Sea
 
 ∞. Breathedge
 
@@ -37,7 +38,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Omno
 - Nobody saves the world
 - Boyfriend Dungeon
-- Matematik i Måneby
 - The Surge 2
 - Taiko no Tatsujin: The Drum Master!
 
@@ -47,8 +47,6 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 - Squirrel Stalper (Dread X Collection 2)
 - Tick Tock: A Tale for Two
 - Loop Hero
-- Deathloop
 - Furi
 - Unfinished Swan
 - What the Golf?!
-- Persona 5
