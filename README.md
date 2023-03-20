@@ -13,18 +13,20 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 3. The Forgotten City
 4. Death's Door
 5. Metal Gear Solid
-6. The Medium
-7. Hylics 1 & 2
-8. Telling Lies
-9. The Good Life
-10. The Pedestrian
-11. SABLE
-12. Atomic Heart
-13. Operation: Tango
-14. Pupperazzi
-15. Dicey Dungeons
-16. Matematik i Måneby
-17. Call of the Sea
+6. pentiment
+7. The Medium
+8. Hylics 1 & 2
+9. Telling Lies
+10. The Good Life
+11. The Pedestrian
+12. SABLE
+13. Atomic Heart
+14. Operation: Tango
+15. Pupperazzi
+16. Dicey Dungeons
+17. Matematik i Måneby
+18. Call of the Sea
+
 
 ∞. Breathedge
 
