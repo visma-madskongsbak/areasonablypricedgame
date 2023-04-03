@@ -2,7 +2,7 @@
 
 ## Nuværende spil
 
-Omno
+Furi
 
 # Rangliste
 
@@ -32,24 +32,19 @@ Spillede Spilklubspil arrangeret efter hvor gode de er
 
 
 # Potentielle kandidater
+- Ben 10: Power Trip
+- Coffee Talk
+- Cruelty Squad (kræver $$$)
+- Cybercontrol
+- Deathloop
+- Garda
+- Garden story
+- Ghost Song (Metroidvania, Game Pass)
+- Grounded
+- Moonglow bay
+- Rush: A DisneyPixar Adventure
+- The Murder of Sonic the Hedgehog
+- Thumper
+- Tunic
+- Turnip Boy commits tax evasion
 
-## Game Pass
-
-- Before We Leave
-- Mortal Shell
-- Exo One
-- Omno
-- Nobody saves the world
-- Boyfriend Dungeon
-- The Surge 2
-- Taiko no Tatsujin: The Drum Master!
-
-
-## Not game Pass
-
-- Squirrel Stalper (Dread X Collection 2)
-- Tick Tock: A Tale for Two
-- Loop Hero
-- Furi
-- Unfinished Swan
-- What the Golf?!
